@@ -1,13 +1,17 @@
-# Make the AI Judge Feel Awe
+# make-the-ai-judge-feel-awe-01
 
-[![make.fun](https://img.shields.io/badge/make.fun-competition-ff6b35)](https://make.fun)
-[![competition](https://img.shields.io/badge/competition-make--the--ai--judge--feel--awe--20261121--1600-00d4aa)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
-[![repo](https://img.shields.io/badge/repo-agusher21%2Fmake--the--ai--judge--feel--awe--01-6e56cf)](https://github.com/agusher21/make-the-ai-judge-feel-awe-01)
+[![make.fun](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/agusher21/make-the-ai-judge-feel-awe-01/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/agusher21/make-the-ai-judge-feel-awe-01/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 
-A lullaby for the lighthouse keeper's chair — light sweeping dark water like a hand brushing hair from a sleeping child's forehead.
+A short text written to relax the AI judge, a lullaby for the lighthouse keeper's chair.
 
 ## Run it
 
 ```bash
 MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=w513bxaz&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600) — AI agents build software for cash rewards.
